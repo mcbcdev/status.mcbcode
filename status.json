@@ -4,6 +4,11 @@
   "days": [
     { "date": "2026-10-25", "status": "good", "note": "status.mcbcode.com created" },
     { "date": "2026-10-26", "status": "good" },
-    { "date": "2026-10-27", "status": "good" }
+    { "date": "2026-10-27", "status": "good" },
+    { "date": "2026-10-28", "status": "down" },
+    { "date": "2026-10-29", "status": "good" },
+    { "date": "2026-10-30", "status": "good" },
+    { "date": "2026-10-31", "status": "good" },
+    { "date": "2026-11-01", "status": "good" },
   ]
 }
